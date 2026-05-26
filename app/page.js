@@ -127,7 +127,7 @@ export default function Home() {
             <div className="space-y-4">
 
               <a
-                href="https://your-products-hub.vercel.app"
+                href="https://creator-vault-ai.vercel.app/"
                 target="_blank"
                 className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-pink-400"
               >
@@ -135,7 +135,7 @@ export default function Home() {
               </a>
 
               <a
-                href="https://your-ai-tools-hub.vercel.app"
+                href="https://ai-tools-murex-mu.vercel.app/"
                 target="_blank"
                 className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-pink-400"
               >
