@@ -246,7 +246,7 @@ export default function Home() {
             <div className="space-y-4">
 
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/iamjeffjepoyeuro/"
                 target="_blank"
                 className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-red-400"
               >
@@ -254,7 +254,7 @@ export default function Home() {
               </a>
 
               <a
-                href="https://youtube.com"
+                href="https://www.youtube.com/@iamjeffjepoyeuro"
                 target="_blank"
                 className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-red-400"
               >
