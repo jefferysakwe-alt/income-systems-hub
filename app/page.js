@@ -55,7 +55,7 @@ export default function Home() {
               </a>
 
               <a
-                href="rugrv"
+                href="https://attapoll.app/join/rugrv"
                 target="_blank"
                 className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-green-400"
               >
