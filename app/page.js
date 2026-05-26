@@ -55,7 +55,7 @@ export default function Home() {
               </a>
 
               <a
-                href="https://mobrog.com/?membership_promotion=0&i_invite=23783743-67ca8b2edf3bd&rkm=38"
+                href="rugrv"
                 target="_blank"
                 className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-green-400"
               >
