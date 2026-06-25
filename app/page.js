@@ -95,7 +95,7 @@ export default function Home() {
               </a>
 
               <a
-                href="https://www.binance.com"
+                href="https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00C0DDLMAV"
                 target="_blank"
                 className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-cyan-400"
               >
@@ -259,6 +259,13 @@ export default function Home() {
                 className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-red-400"
               >
                 ▶️ YouTube →
+              </a>
+              <a
+                href="https://www.facebook.com/iamjeffjepoyeuro"
+                target="_blank"
+                className="block bg-black border border-zinc-700 rounded-2xl p-4 hover:border-red-400"
+              >
+                ▶️ Facebook →
               </a>
 
             </div>
